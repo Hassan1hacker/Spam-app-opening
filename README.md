@@ -13,4 +13,4 @@ Step 3: click exit and save make sure you wrote start 4 times
 Step 4: name the file virus.bat and save it where ever you want
 Step 5: send the file to a target and as soon as they open it cmd (command prompt) will spam open so many times       
 # Educational purpose use only
-by the way i'll try make a download button on this file so you guys can just download it and dn't have to write the entire code :)
+# easy download here -> https://github.com/Hassan1hacker/Spam-app-opening/archive/refs/heads/main.zip
